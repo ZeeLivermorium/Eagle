@@ -1,4 +1,6 @@
-# Some Eagle Libraries And Projects
+# Eagle Libraries And Projects
 
-- Libraries are in [libraries](libraries) folder.
-- Projects are in [projects](projects) folder.
+Some of my custom Eagle libraries and projects that are probably worth sharing.
+
+- See [libraries](libraries) folder for libraries.
+- See [projects](projects) folder for projects.
