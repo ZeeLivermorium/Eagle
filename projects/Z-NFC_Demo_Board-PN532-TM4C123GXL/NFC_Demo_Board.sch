@@ -713,12 +713,6 @@ or FCI 67997-210HLF, Digikey 609-3236-ND</description>
 <label x="96.52" y="30.48" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$11" class="0">
-<segment>
-<wire x1="71.12" y1="66.04" x2="63.5" y2="66.04" width="0.1524" layer="91"/>
-<pinref part="DIS1" gate="A" pin="CARD_CS"/>
-</segment>
-</net>
 <net name="3V3" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="+3.3V"/>
@@ -798,6 +792,18 @@ or FCI 67997-210HLF, Digikey 609-3236-ND</description>
 <pinref part="U$1" gate="G$1" pin="MOSI"/>
 <wire x1="68.58" y1="93.98" x2="60.96" y2="93.98" width="0.1524" layer="91"/>
 <label x="53.34" y="93.98" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="SD_CS" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="PB0"/>
+<wire x1="10.16" y1="25.4" x2="2.54" y2="25.4" width="0.1524" layer="91"/>
+<label x="0" y="25.4" size="1.778" layer="95"/>
+</segment>
+<segment>
+<wire x1="71.12" y1="66.04" x2="63.5" y2="66.04" width="0.1524" layer="91"/>
+<pinref part="DIS1" gate="A" pin="CARD_CS"/>
+<label x="60.96" y="66.04" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>

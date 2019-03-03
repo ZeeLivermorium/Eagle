@@ -13,6 +13,12 @@ A demo board for STMicroeletronics VL53L0X ToF LiDAR sensor with TI TM4C123GXL M
 ## [LiDAR Demo Board Vertical - VL53L0X - TM4C123GXL](Z-NFC_Demo_Board-PN532-TM4C123GXL)
 Another version of the LiDAR demo board with the LiDAR sensor standing vertically.
 
+## [UTexas EE445M Front LiDAR Board Version 1](Z-UTX_EE445M_Front_LiDAR_Board_1)
+A pcb for holding front LiDAR sensors for UTexas EE445M autonomous driving car.
+
+## [UTexas EE445M Front LiDAR Board Version 2](Z-UTX_EE445M_Front_LiDAR_Board_2)
+Another version of LiDAR front board for easier custom placement for LiDAR sensors.
+
 ## Copyright Note
 Some of the projects here contain Texas Longhorns or UT ECE logos. Those are properties of University of Texas at Austin. Any PCBs that I put those logos on are purely for academic use at UT ECE. If you download my designs from this repo for your personal use, you might want to remove these logos in case UT lawyers call you up to have a cup of tea.
 
