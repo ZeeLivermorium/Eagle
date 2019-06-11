@@ -28,10 +28,10 @@ A bridge to interface raspberry pi with custom PCBs.
 ## [LM2596S Buck Converter Reference Board](Buck_Converter_Reference_Board_5V_3A_LM2596S)
 A buck converter reference design for LM2596S.
 
-## [Uexas EE445M Sensor Board](UTX_EE445M_Sensor_Board)
+## [UTexas EE445M Sensor Board](UTX_EE445M_Sensor_Board)
 My custom sensor board design for my autonomous driving car for UTexas EE445M.
 
-## [Uexas EE445M Motor Board](UTX_EE445M_Motor_Board)
+## [UTexas EE445M Motor Board](UTX_EE445M_Motor_Board)
 My custom motor board design for my autonomous driving car for UTexas EE445M.
 
 ## Copyright Note
